@@ -1,14 +1,14 @@
-baseurl = "https://example.com"
-title = "Hugo Themes - aether"
-author = "Joe Hutchinson"
+baseurl = "https://dotfox.at"
+title = "dotfox"
+author = "Niko Ryba"
 canonifyurls = true
 paginate = 3
 theme = "aether"
 themesDir = "../../" 
 
 [params]
-    brand = "aether"
-    description = "aether Hugo theme for blogs"
+    brand = "dotfox"
+    description = "Web- & IT-Lösungen"
     headshotimg = "img/faceshot.jpg"
 
 [markup]
